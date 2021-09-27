@@ -8,6 +8,43 @@
     <link rel="icon" href="https://image.freepik.com/free-vector/healthy-lifestyle-icon-concept-with-icon-design_24911-17830.jpg">
   </head>
   <body>
-    <script src="script.js"></script>
+
+    <div class="status-bar">
+      <div class="status-bar_column">
+        <span>SKT LTE+</span>
+        <i class="fas fa-wifi"></i>
+      </div>
+      <div class="status-bar_column">
+        <span>22:00</span>
+      </div>
+      <div class="status-bar_column">
+        <span>99%</span>
+        <i class="fas fa-battery-full fa-lg"></i>
+        <i class="fas fa-bolt"></i>
+      </div>
+    </div>
+
+    <header class="welcome-header">
+        <h1 class="welcome-header_title">Welcome to Kokoa Clone</h1>
+        <p class="welcome-header_text">
+          If you have a Kokoa Account, log in with your email or phone number.
+        </p>
+    </header>
+
+    <form action="friends.html" method="get" id="login-form">
+      <input name="username" type="text" placeholder="Email or phone number"/>
+      <input name="password" type="password" placeholder="Password" />
+      <input type="submit" value="Log In" />
+      <input type="submit" value="Sign Up" />
+      <a href="#">Find Kokoa Account or Password</a>
+    </form>
+
+    <div id="no-mobile">
+      <span>Adjust Your Screen Size</span>
+    </div> 
+
+  <script src="https://kit.fontawesome.com/6478f529f2.js" crossorigin="anonymous"></script>
+      
   </body>
+
 </html>
