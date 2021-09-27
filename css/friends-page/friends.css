@@ -46,3 +46,7 @@
   animation: hideSplashScreen 0.4s ease-in-out forwards;
   animation-delay: 1s;
 }
+
+#splash-screen img{
+  background-color: var(--yellow);
+}
