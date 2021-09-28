@@ -5,7 +5,9 @@
   box-sizing: border-box;
   display: flex;
   justify-content: center;
+  align-items: center;
   padding: 5px 3px;
+  border-bottom: 4px solid rgba(0, 0, 0, 0.05);
 }
 
 .status-bar_column{
