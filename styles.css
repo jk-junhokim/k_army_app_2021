@@ -45,6 +45,9 @@
 /* order-confirm */
 @import "css/order-confirm/confirmation.css";
 
+/* item-of-week */
+@import "css/item-of-week/item-of-week.css";
+
 
 /* main */
 body{
