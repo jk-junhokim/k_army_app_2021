@@ -5,9 +5,9 @@
 
 .qr-code_main-img img{
   border: none;
-  width: 400px;
-  height: 400px;
-  padding: 15px;
+  width: 300px;
+  height: 300px;
+  padding: 5px;
 }
 
 .qr-code_list{
