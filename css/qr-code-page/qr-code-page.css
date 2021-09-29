@@ -1,0 +1,23 @@
+.qr-code_main-screen{
+  border: none;
+  margin-top: 40px;
+}
+
+.qr-code_main-img img{
+  border: none;
+  width: 400px;
+  height: 400px;
+  padding: 15px;
+}
+
+.qr-code_list{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.qr-code_description{
+  margin-top: 20px;
+  font-size: 16px;
+}

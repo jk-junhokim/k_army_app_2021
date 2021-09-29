@@ -48,6 +48,9 @@
 /* item-of-week */
 @import "css/item-of-week/item-of-week.css";
 
+/* qr-code */
+@import "css/qr-code-page/qr-code-page.css";
+
 
 /* main */
 body{
