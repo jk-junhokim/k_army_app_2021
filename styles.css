@@ -42,6 +42,9 @@
 /* chat-page */
 @import "css/chat-page/chat-page.css";
 
+/* order-confirm */
+@import "css/order-confirm/confirmation.css";
+
 
 /* main */
 body{
